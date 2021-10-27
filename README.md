@@ -9,3 +9,5 @@ Simon's forth commit, added content to 101032525_gb.txt
 Simon's 5th commit, fixed typos in 101032525_gb.txt
 
 Simon's 6th commit, added content to 101032525_devops.txt
+
+Simon's 7th commit, fixed typos in 101032525_devops.txt
