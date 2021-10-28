@@ -1,7 +1,7 @@
 [About the importance of learning Software Development Life Cycle]
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-The Software Development Life Cycle (SDLC) is a process followed for a software project within a software organization. It consists of a detailed plan 
-describing developing, maintaining, replacing, altering or enhancing specific software. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The Software Development Life Cycle (SDLC) is a process followed for a software project within a software organization. It consists of a detailed plan describing
+developing, maintaining, replacing, altering or enhancing specific software. 
 
 As DevOps engineers, it is their job to provide high-quality software that meets or exceeds the expectations of their clients within the time and cost estimates. 
 
