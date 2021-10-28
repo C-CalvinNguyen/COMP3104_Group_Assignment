@@ -13,3 +13,7 @@ Simon's 6th commit, added content to 101032525_devops.txt
 Simon's 7th commit, fixed typos in 101032525_devops.txt
 
 Simon's 8th commit, added content to 101032525_sdlc.txt, added more content to 101032525_devops.txt, added more content to 101032525_gb.txt
+
+Simon's 9th commit, added more content to 101032525_sdlc.txt, indented paragraphs of all txt files
+
+Simon's 10th commit, properly spellchecked all txt files
