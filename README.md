@@ -1,6 +1,9 @@
 Group Assignment
+
 COMP 3104 – DevOps
+
 Total: 16% (100 Points)
+
 Submission Deadline: Sunday, Oct 31, 2021 (Week06)
 
 Assignment Details
@@ -9,10 +12,10 @@ Assignment Details
    than 4 people will be allowed. After creating group start working on
    your group assignment. (05 Point)
 
-2. Create a public git repository name COMP3104_Group_Assignment.
-   **_Note that only one member (Leader/Owner) from your group will create
+2. Create a public git repository name COMP3104*Group_Assignment.
+   \*\*\_Note that only one member (Leader/Owner) from your group will create
    a repository and other remaining member will clone the repository on
-   their local system._** (05 Point)
+   their local system.*\*\* (05 Point)
 
 3. The leader/owner of the repository will add other group member as
    collaborator and assign required permission to work on the repository.
@@ -42,3 +45,16 @@ Assignment Details
 
 7. Group members should add and update Readme.md file to maintain
    their repository details (10 Point)
+
+**Commits made in 101260242-Hans branch**
+
+:one: Initial commit
+:two: added George Brown txt file
+:three: added DevOps txt file
+:four: added SDLC txt file
+:five: added a header on each txt file
+:six: added contents to gb.txt
+:seven: added contents to devops.txt
+:eight: added contents to sdlc.txt
+:nine: Updated Readme.md file
+:keycap_ten:
