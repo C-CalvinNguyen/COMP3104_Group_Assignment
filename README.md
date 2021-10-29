@@ -8,3 +8,8 @@ Commits
 2. Creation of the text files 10120387_devops.txt, 101203877_gb.txt, and 101203877_sdlc.txt
 
 3. Formatted the 101203877_gb.txt file & added the main points for the file
+
+4. Added the content for 101203877_gb.txt file.
+
+5. Edited the README.md and updated it for commits about 101203877_gb.txt
+
