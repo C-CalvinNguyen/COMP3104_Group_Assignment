@@ -13,3 +13,8 @@ Commits
 
 5. Edited the README.md and updated it for commits about 101203877_gb.txt
 
+6. Added formatting and main points for 101203877_devops.txt using nano
+
+7. Added content to 101203877_devops.txt using nano
+
+8. Updated commits about 101203877_devops.txt to README.md
