@@ -18,3 +18,10 @@ Commits
 7. Added content to 101203877_devops.txt using nano
 
 8. Updated commits about 101203877_devops.txt to README.md
+
+9. Added formatting and main points for 101203877_sdlc.txt using nano
+
+10. Added the content for 101203877_sdlc.txt
+
+11. Updated the README.md file to include sdlc commits
+ 
