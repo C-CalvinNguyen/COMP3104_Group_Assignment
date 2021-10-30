@@ -1,3 +1,0 @@
-	COMP 3104 DevOps course is made to equip professionals approaching the IT field. Specifically, an area where servers, web applications and infrastructure will be absolutely key to business needs. COMP 3104 will offer hands-on experience through the implementation of tried, tested and true DevOps technologies. With understanding how to utilize Amazon Web Services (AWS), Ansible, Docker and Travis CI, you will become knowledgeable with end-to-end deployment processes.
-
-	In addition, applying DevOps with precision will enable for an operation established on simplicity to export code to Production servers, apply hot-fixes, find errors before they create unintended consequences and maintain clarity and effective communication elevated across all groups.
