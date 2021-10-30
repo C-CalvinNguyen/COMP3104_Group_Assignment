@@ -1,7 +1,0 @@
-DevOps is a cultural approach, set of processes, and set of tools that improves a team's capacity 
-to deploy applications and services at a high rate. The scope of responsibilities is always a source of 
-contention between the development and operations teams. These disparities have a negative influence on 
-the quality and speed of delivery throughout the software development life cycle. The goal of DevOps is 
-to break down boundaries between two traditionally separate teams: development and operations. With DevOps, 
-these two groups collaborate to improve both developer productivity and operations reliability. They attempt 
-to communicate often, boost efficiencies, and maintain a positive attitude.
