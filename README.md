@@ -10,6 +10,10 @@ Third Commit by Aryan, adding content 101282617_gb.txt file
 
 6th Commit by Aryan, adding content 101282617_devops.txt
 
-5th Commit by Aryan, updating the readme.md file with previous commit options
+7th Commit by Aryan, updating the readme.md file with previous commit options
 
-6th
+8th Commit by Aryan, addding 101282617_sdlc.txt
+
+9th Commit by Aryan, addding content 101282617_sdlc.txt
+
+10th Commit by Aryan, updating readme file
