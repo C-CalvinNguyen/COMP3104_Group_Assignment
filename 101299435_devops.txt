@@ -1,0 +1,9 @@
+DevOps
+---------------------
+DevOps COMP 3104 is designed to prepare students to handle servers, 
+web apps and infrastracture through hands-on experience with DevOps
+technology. In this course will showcase the importance of DevOps
+and how companies applied these strategies. Using DevOps effectively
+will allow students to become better developer through working with
+a team and seeing how the DevOps strategies allows for easier way
+to ship codes and handle bugs.  
