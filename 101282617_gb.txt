@@ -2,7 +2,7 @@ George Brown College of Applied Arts and Technology is a public, fully accredite
 with three full campuses in downtown Toronto (Ontario, Canada). 
 Like many other colleges in Ontario, GBC was chartered in 1966 by the government of Ontario and opened the next year.
 
-Campuses
+* Campuses
 1. Casa Loma campus is situated on the stretch of Kendal Ave. between Davenport Rd. and MacPherson Ave. 
    Nearby features include Casa Loma, and the City of Toronto Archives. 
    The campus itself is a collection of five buildings.
@@ -17,7 +17,7 @@ Campuses
    (between Corus Quay and Redpath Sugar Refinery). This campus is home to the Centre for Health Sciences. 
    It also has a residence building that is the former 2015 Pan American Games Athletes' Village.
 
-PROGRAMS
+* PROGRAMS
 Bachelor of Interpretation – American Sign Language – English
 Bachelor of Applied Arts – Early Childhood Leadership
 Early Childhood Education (Consecutive Diploma/Degree)
