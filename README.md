@@ -17,3 +17,5 @@
 :eight: Updated README.md file
 
 :nine: Edited and Checked for mistakes
+
+:keycap_ten: Made the txt files look better
