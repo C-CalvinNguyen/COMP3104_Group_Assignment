@@ -15,3 +15,5 @@
 :seven: added contents to sdlc.txt
 
 :eight: Updated README.md file
+
+:nine: Edited and Checked for mistakes
