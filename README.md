@@ -19,7 +19,6 @@ COMP3104 Group Assignment - Branch 101299435-James
 9️⃣ James ninth commit. Reformatted devops.txt, gb.txt, sdlc.txt.
 
 🔟 James tenth commit. Double check all work for spelling errors and grammar issues.
-------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 First Commit by Aryan, testing branch and adding readme.md file
@@ -41,7 +40,6 @@ Third Commit by Aryan, adding content 101282617_gb.txt file
 9th Commit by Aryan, addding content 101282617_sdlc.txt
 
 10th Commit by Aryan, updating readme file
-------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 **Commits made in 101260242-Hans branch**
@@ -67,7 +65,6 @@ Third Commit by Aryan, adding content 101282617_gb.txt file
 :keycap_ten: Made the txt files look better
 
 **COMPLETED**
-------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 Simon's initial commit, testing if branch is pushed sucessfully to remote and edited readme.md
@@ -89,13 +86,14 @@ Simon's 8th commit, added content to 101032525_sdlc.txt, added more content to 1
 Simon's 9th commit, added more content to 101032525_sdlc.txt, indented paragraphs of all txt files
 
 Simon's 10th commit, properly spellchecked all txt files
-------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 ### COMP3104 Group Assignment - Branch 101203877-ChiCalvin
 
 ------------------------------------------------------
+
 Commits
+
 ------------------------------------------------------
 1. Creation of branch & cloning of the main
 
