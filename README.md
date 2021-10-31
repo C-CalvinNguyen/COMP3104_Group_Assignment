@@ -1,3 +1,27 @@
+COMP3104 Group Assignment - Branch 101299435-James
+------------------------------------------------------------------------
+1️⃣ James initial commit. Committing to see if branch is visible on GitHub.
+
+2️⃣ James second commit. Created Studentid_gb.txt.
+
+3️⃣ James third commit. Created Studentid_devops.txt.
+
+4️⃣ James fourth commit. Created Studentid_sdlc.txt.
+
+5️⃣ James fifth commit. Added information on gb.txt.
+
+6️⃣ James sixth commit. Added information on devops.txt.
+
+7️⃣ James seventh commit. Added information on sdlc.txt.
+
+8️⃣ James eighth commit. Improve readability of README.md.
+
+9️⃣ James ninth commit. Reformatted devops.txt, gb.txt, sdlc.txt.
+
+🔟 James tenth commit. Double check all work for spelling errors and grammar issues.
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 First Commit by Aryan, testing branch and adding readme.md file
 
 Second Commit by Aryan, adding 101282617_gb.txt file 
@@ -17,7 +41,9 @@ Third Commit by Aryan, adding content 101282617_gb.txt file
 9th Commit by Aryan, addding content 101282617_sdlc.txt
 
 10th Commit by Aryan, updating readme file
+------------------------------------------------------------------------
 
+------------------------------------------------------------------------
 **Commits made in 101260242-Hans branch**
 
 :one: Initial commit
@@ -41,7 +67,9 @@ Third Commit by Aryan, adding content 101282617_gb.txt file
 :keycap_ten: Made the txt files look better
 
 **COMPLETED**
+------------------------------------------------------------------------
 
+------------------------------------------------------------------------
 Simon's initial commit, testing if branch is pushed sucessfully to remote and edited readme.md
 
 Simon's second commit, added 3 txt files
@@ -61,7 +89,9 @@ Simon's 8th commit, added content to 101032525_sdlc.txt, added more content to 1
 Simon's 9th commit, added more content to 101032525_sdlc.txt, indented paragraphs of all txt files
 
 Simon's 10th commit, properly spellchecked all txt files
+------------------------------------------------------------------------
 
+------------------------------------------------------------------------
 ### COMP3104 Group Assignment - Branch 101203877-ChiCalvin
 
 ------------------------------------------------------
