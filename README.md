@@ -15,3 +15,5 @@ COMP3104 Group Assignment - Branch 101299435-James
 7️⃣ James seventh commit. Added information on sdlc.txt.
 
 8️⃣ James eighth commit. Improve readability of README.md.
+
+9️⃣ James ninth commit. Reformatted devops.txt, gb.txt, sdlc.txt.
